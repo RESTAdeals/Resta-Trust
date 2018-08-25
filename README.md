@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Corda](https://www.corda.net/wp-content/uploads/2016/11/fg005_corda_b.png)
 
 # CorDapp Template
@@ -132,6 +131,3 @@ See https://docs.corda.net/tutorial-cordapp.html#running-nodes-across-machines.
 
 Tutorials and developer docs for CorDapps and Corda are
 [here](https://docs.corda.net/).
-=======
-# Resta-Trust
->>>>>>> 6cc6c6a2e23dab8e2f44738e400911cfd8944e96
