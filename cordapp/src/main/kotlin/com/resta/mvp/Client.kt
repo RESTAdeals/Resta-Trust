@@ -1,4 +1,4 @@
-package com.template
+package com.resta.mvp
 
 import net.corda.client.rpc.CordaRPCClient
 import net.corda.core.contracts.StateAndRef

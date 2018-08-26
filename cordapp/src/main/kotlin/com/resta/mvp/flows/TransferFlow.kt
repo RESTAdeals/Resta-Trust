@@ -1,4 +1,4 @@
-package com.template.flows
+package com.resta.mvp.flows
 
 import co.paralleluniverse.fibers.Suspendable
 import net.corda.core.flows.FlowLogic
@@ -7,7 +7,7 @@ import net.corda.core.flows.StartableByRPC
 
 @InitiatingFlow
 @StartableByRPC
-object RequestIdentityFlow {
+object TransferFlow {
     class Initiator : FlowLogic<Unit>() {
         @Suspendable
         override fun call() {

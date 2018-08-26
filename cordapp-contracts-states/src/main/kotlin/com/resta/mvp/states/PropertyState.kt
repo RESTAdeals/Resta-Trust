@@ -1,4 +1,4 @@
-package com.template.states
+package com.resta.mvp.states
 
 import net.corda.core.contracts.Amount
 import net.corda.core.contracts.LinearState

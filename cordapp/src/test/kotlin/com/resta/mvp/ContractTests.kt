@@ -1,4 +1,4 @@
-package com.template
+package com.resta.mvp
 
 import net.corda.testing.node.MockServices
 import org.junit.Test
